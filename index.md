@@ -18,7 +18,7 @@ You can reach me at:
 - [github](https://github.com/alextobias)
 
 Please check out my [resume](/resume):
-{% pdf "/assets/alextobias_resume.pdf" no_link height=1000px%}
+<embed src="/assets/alextobias_resume.pdf" width="100%" height="1020px" type="application/pdf">
 
 <br><br>
 This site was built using [Github Pages](https://docs.github.com/en/pages) and [Jekyll](https://jekyllrb.com/).

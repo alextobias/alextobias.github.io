@@ -1,5 +1,4 @@
 ---
 permalink: /resume
 ---
-
- {% pdf "/assets/alextobias_resume.pdf" no_link height=1050px%}
+<embed src="/assets/alextobias_resume.pdf" width="100%" height="1020px" type="application/pdf">
