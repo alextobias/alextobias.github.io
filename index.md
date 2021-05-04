@@ -9,7 +9,7 @@ Hi! My name's Alex. Congratulations on finding my website - excellent job! Be pr
 
 I'm a fourth-year computer science student at the University of Toronto.
 
-... Oops, sorry about all the construction. This site is a work-in-progress!
+🚧 ... Oops, sorry about all the construction. This site is a work-in-progress! 🚧
 
 You can reach me at:
 
