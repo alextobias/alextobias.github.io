@@ -6,6 +6,8 @@ Notes to myself on using Jekyll since I will probably revisit my site infrequent
 - can use `--livereload` flag for live reload
 - `bundle install` installs all gems currently in Gemfile
 - to bypass bundler if you aren't using a gemfile, use `jekyll serve`.
+- **It seems like I have to prepend bundle exec to any jekyll command, to run said command using the installed gems for this project. So if I say `jekyll x`, do `bundle exec jekyll x`.**
+- `jekyll clean` removes all generated files.
 
 # Toolchain
 - The site is generated using Jekyll, i.e. it takes more human-friendly markdown input and generates html/css that is actually displayed
@@ -22,6 +24,8 @@ Notes to myself on using Jekyll since I will probably revisit my site infrequent
 - Config file for settings that affect the entire blog site - the stuff here should be values that we intend to set up once and rarely edit
 - *NOT* reloaded automatically under `bundle exec jekyll serve`; must restart server process
 
+## assets/css/style.scss
+- This file is for overriding the default theme css
 
 ## Gemfile & Gemfile.lock 
 - `Gemfile` and `Gemfile.lock` seem to be analogous to npm's `package.json` and `package-lock.json` respectively.
