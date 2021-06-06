@@ -12,12 +12,12 @@ permalink: /experience
 
 I'm currently undergoing a research internship at the [Penn Center for Learning Analytics](https://www.upenn.edu/learninganalytics/), under [Dr. Ryan Baker](https://www.upenn.edu/learninganalytics/ryanbaker/index.html).
 
-My role primarily consists of contributing to [MORF](https://educational-technology-collective.github.io/morf/), the MOOC Replication Framework. Reproducibility studies on MOOC data analytics have mixed results, and MORF aims to provide a framework to standardize this.
+I'm a contributor to [MORF](https://educational-technology-collective.github.io/morf/), the MOOC Replication Framework. Reproducibility studies on MOOC data analytics have shown inconsistent results, which MORF aims to fix by providing a standardizing framework.
 
 ## 🪰 FlyFarm Agritech
 *May 2020 - Aug 2020*
 
-FlyFarm is an agritech startup aiming to bring highly automated vertical insect farming to the world.
+FlyFarm is an agritech startup aiming to bring environmentally-conscious, highly automated vertical farming and waste up-cycling to the world.
 
 I designed and deployed a network of environmental sensors for use by our operations team. I deployed code on our facility computers to interface with the sensors via Bluetooth, relay the data over an MQTT network, and upload to our AWS Elasticsearch cluster. I connected our AWS backend to our Grafana visualizer, and wrote a web client application to manage the tracking and identification of each individual sensor. 
 
