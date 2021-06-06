@@ -21,15 +21,14 @@
 title: "Alex Tobias"
 email: alexanderleetobias@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome, oh traveller of the world-wide-web. You must be weary from the journey. 
-  In the meantime, feel free to rest here, and browse my wares!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  alextobias
 linkedin_username:  alextobias
+logo: assets/img/alex_profile_img.jpeg
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
