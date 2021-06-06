@@ -1,15 +1,13 @@
 ---
 layout: default
 permalink: /projects
-author: me
-title: Projects
 ---
 
 # Projects & Creations
 Things by me.
 
 ## SideWindow @ [sidewindow.xyz](https://www.sidewindow.xyz)
-<!-- ![sidewindow-gif](https://github.com/alextobias/sidewindow-extension/raw/HEAD/images/sw-gif-hq-5.gif) -->
+![sidewindow-gif](assets/img/sw-gif-hq-5.gif)
 
 [SideWindow](https://www.sidewindow.xyz) is an application that lets you cast your editor contents to any other device for remote viewing and editing.
 
@@ -17,11 +15,9 @@ I built SideWindow because I work on my laptop a lot, and wanted to be able to u
 
 Install the SideWindow extension in VS Code, then you're good to go! Use the browser client to view from anywhere.
 
-Check it out at [sidewindow.xyz](https://www.sidewindow.xyz)!
+![sidewindow-gif](assets/img/sw-gif-hq-2.gif)
 
-Check out the extension repo [here](https://github.com/alextobias/sidewindow-extension), and the browser client repo [here](https://github.com/alextobias/sidewindow).
-
-<!-- ![sidewindow-gif](https://github.com/alextobias/sidewindow/raw/HEAD/assets/sw-gif-hq-2.gif) -->
+Check it out at [sidewindow.xyz](https://www.sidewindow.xyz)! The extension repo can be found [here](https://github.com/alextobias/sidewindow-extension), and the browser client repo can be found [here](https://github.com/alextobias/sidewindow).
 
 ## Tweet Sentiment Predictor @ [link here](http://alextobias.me/sentiment-analysis-web/predict-sentiment.html)
 
@@ -29,13 +25,13 @@ I used [fasttext](https://fasttext.cc/) to train a text classification model on 
 
 The model performs classification on input text to predict its sentiment as positive or negative, with an additional measure of confidence.
 
-What's extra cool is that it's actually all running in your browser, via WebAssembly. By compiling fasttext to WebAssembly, the model is loaded and all work is done client-side. I was able to shrink the model to just 2MB, which is why it's possible to load it in your browser.
+What's extra cool is that it's actually all running client-side, no external API requests needed. I was able to compile fasttext to WebAssembly so that the model is loaded and all work is done in your browser. 
 
 [Try it out here!](http://alextobias.me/sentiment-analysis-web/predict-sentiment.html)
 
 ## Part-of-Speech Tagger
 
-I implemented a part-of-speech tagger that works on being trained on pre-tagged texts (such as from a corpus). It's able to tag familiar and unfamiliar texts with 85-90% accuracy.
+I implemented a part-of-speech tagger that works by being trained on pre-tagged texts (such as from a corpus). It's able to tag familiar and unfamiliar texts with 85-90% accuracy.
 
 The tagger works by generating a Hidden Markov Model on its training dataset to look at both observation/emission and transition/sequential probabilities.
 
