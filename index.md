@@ -16,6 +16,11 @@ You can reach me at:
 - [LinkedIn](https://www.linkedin.com/in/alextobias/)
 - [github](https://github.com/alextobias)
 
+This site is primarily for people to find out a little more about me. I may also post some of my writings (but we'll see, haha). 
+
+Here you'll find links to my resume, work experience and some personal projects I've done.
+
+
 ### [My resume.](/resume)
 
 ### [My experience.](/experience)
