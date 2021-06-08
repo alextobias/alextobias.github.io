@@ -14,7 +14,7 @@ I'm currently undergoing a research internship at the [Penn Center for Learning 
 
 I'm a contributor to [MORF](https://educational-technology-collective.github.io/morf/), the MOOC Replication Framework. Reproducibility studies on MOOC data analytics have shown inconsistent results, which MORF aims to fix by providing a standardizing framework.
 
-## 🪰 FlyFarm Agritech
+## 🐝 FlyFarm Agritech
 *May 2020 - Aug 2020*
 
 FlyFarm is an agritech startup aiming to bring environmentally-conscious, highly automated vertical farming and waste up-cycling to the world.
