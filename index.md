@@ -4,7 +4,7 @@
 
 layout: default
 # layout: page
-title: Welcome!
+title: 👋 Welcome!
 ---
 ## 👋 Hi! My name's Alex. 
 
@@ -13,7 +13,7 @@ I'm a fourth-year computer science student at the University of Toronto. I'm int
 <!-- 🚧 ... Oops, sorry about all the construction. This site is a work-in-progress! 🚧 -->
 
 You can reach me at:
-- [alexanderleetobias@gmail.com](mailto:alexanderleetobias@gmai.com)
+- [alexanderleetobias@gmail.com](mailto:alexanderleetobias@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/alextobias/)
 - [github](https://github.com/alextobias)
 
