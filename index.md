@@ -4,6 +4,7 @@
 
 layout: default
 # layout: page
+title: Welcome!
 ---
 ## 👋 Hi! My name's Alex. 
 
