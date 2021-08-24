@@ -7,6 +7,16 @@ permalink: /experience
 
 ---
 
+## Akuna Capital
+*Incoming; Summer 2022*
+
+I'll be working at [Akuna Capital](http://akunacapital.com/) as a Software Development Intern from June to August 2022.
+
+## Asana
+*Incoming; Winter 2022*
+
+I'll be working at [Asana](https://asana.com/) as a Software Development Intern from January to April 2022.
+
 ## 🎓 University of Pennsylvnia, Center for Learning Analytics
 *May 2021 - Present*
 

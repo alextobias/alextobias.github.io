@@ -8,7 +8,11 @@ title: 👋 Welcome!
 ---
 ## 👋 Hi! My name's Alex. 
 
-I'm a fourth-year computer science student at the University of Toronto. I'm interested in Linux, NLP, functional programming and compilers.
+I'm a fourth-year computer science student at the University of Toronto. I'm interested in Linux, NLP, functional programming and compilers.  
+
+I'm currently a research intern at the University of Pennslvania, working with the [Penn Center for Learning Analytics](https://www.upenn.edu/learninganalytics/).
+
+Next year, I'll be interning at [Asana](https://asana.com/) and [Akuna Capital](http://akunacapital.com/).
 
 <!-- 🚧 ... Oops, sorry about all the construction. This site is a work-in-progress! 🚧 -->
 
