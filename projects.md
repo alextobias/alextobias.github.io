@@ -4,10 +4,12 @@ permalink: /projects
 ---
 
 # Projects & Creations
-Things by me.
+Things I made.
 
-## SideWindow @ [sidewindow.xyz](https://www.sidewindow.xyz)
+## SideWindow @ [link here](https://marketplace.visualstudio.com/items?itemName=alextobiasdev.sidewindow)
 ![sidewindow-gif](assets/img/sw-gif-hq-5.gif)
+
+(Update 2022: unfortunately, this is no longer available since I haven't worked on this for a while, but the [extension page](https://marketplace.visualstudio.com/items?itemName=alextobiasdev.sidewindow) is still up!)
 
 [SideWindow](https://www.sidewindow.xyz) is an application that lets you cast your editor contents to any other device for remote viewing and editing.
 
@@ -17,9 +19,9 @@ Install the SideWindow extension in VS Code, then you're good to go! Use the bro
 
 ![sidewindow-gif](assets/img/sw-gif-hq-2.gif)
 
-Check it out at [sidewindow.xyz](https://www.sidewindow.xyz)! The extension repo can be found [here](https://github.com/alextobias/sidewindow-extension), and the browser client repo can be found [here](https://github.com/alextobias/sidewindow).
+The extension repo can be found [here](https://github.com/alextobias/sidewindow-extension), and the browser client repo can be found [here](https://github.com/alextobias/sidewindow).
 
-## Tweet Sentiment Predictor @ [link here](http://alextobias.me/sentiment-analysis-web/predict-sentiment.html)
+## Tweet Sentiment Predictor @ [link here](http://alextobias.github.io/sentiment-analysis-web/predict-sentiment.html)
 
 I used [fasttext](https://fasttext.cc/) to train a text classification model on the [Sentiment140](https://www.kaggle.com/kazanova/sentiment140) dataset of 1.6 million tweets.
 
@@ -27,7 +29,7 @@ The model performs classification on input text to predict its sentiment as posi
 
 What's extra cool is that it's actually all running client-side, no external API requests needed. I was able to compile fasttext to WebAssembly so that the model is loaded and all work is done in your browser. 
 
-[Try it out here!](http://alextobias.me/sentiment-analysis-web/predict-sentiment.html)
+[Try it out here!](http://alextobias.github.io/sentiment-analysis-web/predict-sentiment.html)
 
 ## Part-of-Speech Tagger
 

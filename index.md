@@ -8,27 +8,28 @@ title: 👋 Welcome!
 ---
 ## 👋 Hi! My name's Alex. 
 
-I'm a fourth-year computer science student at the University of Toronto. I'm interested in Linux, NLP, functional programming and compilers.  
+I'm a fourth-year computer science student at the University of Toronto. This site is primarily for people to find out a little more about me. 
 
-I'm currently a research intern at the University of Pennslvania, working with the [Penn Center for Learning Analytics](https://www.upenn.edu/learninganalytics/).
+I recently interned at [Akuna Capital](http://akunacapital.com/), working on the firm's trade activity monitoring and post-trade evaluation systems. 
 
-Next year, I'll be interning at [Asana](https://asana.com/) and [Akuna Capital](http://akunacapital.com/).
+Earlier this year, I also interned at [Asana](https://asana.com), where I worked on our Kubernetes tooling to improve our staging deployment speeds.
+
+Last year, I was a research intern at the University of Pennslvania, working with the [Penn Center for Learning Analytics](https://www.upenn.edu/learninganalytics/) to apply machine learning on MOOC data.
+
 
 <!-- 🚧 ... Oops, sorry about all the construction. This site is a work-in-progress! 🚧 -->
 
-You can reach me at:
+You can also reach me at:
 - [alexanderleetobias@gmail.com](mailto:alexanderleetobias@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/alextobias/)
 - [github](https://github.com/alextobias)
 
-This site is primarily for people to find out a little more about me. I may also post some of my writings (but we'll see, haha). 
-
-Here you'll find links to my resume, work experience and some personal projects I've done.
+Here you'll find links to my resume and some personal projects I've done.
 
 
 ### [My resume.](/resume)
 
-### [My experience.](/experience)
+<!-- ### [My experience.](/experience) -->
 
 ### [Projects and other things I've made.](/projects)
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /experience
+# permalink: /experience
 ---
 
 # Where I've Worked
